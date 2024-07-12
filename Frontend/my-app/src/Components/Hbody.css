@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    /* Add additional font weights and styles if needed */
+  }
+
+  .App1{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+  }
+  .box{
+    background-color: white;
+  }
+
+  /* .box {
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 800px;
+    height:500px;
+    width: 700px;
+  } */
+
+  .footer {
+    background-color:#E5EDF1; /* hange to your desired background color */
+    color: black; /* Change text color to contrast with the background */
+    padding: 50px 0;
+  }
+  
+  .footer h5 {
+    font-size: 20px;
+  }
+  
+  .footer p {
+    margin-bottom: 10px;
+  }
+  
+  .footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer ul li a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .footer ul li a:hover {
+    color: saddlebrown;
+  }
+  

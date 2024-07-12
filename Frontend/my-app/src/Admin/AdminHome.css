@@ -1,0 +1,33 @@
+/* AdminHome.css */
+
+
+  
+  
+  .card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    width: 250px;
+    margin-left: 20px;
+  
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+
+  .card-link{
+    color: rgb(26, 11, 223);
+    
+  }
+  
+
+  .custom-logo {
+    font-size: 2rem; /* Adjust this value to increase the size */
+  }
+  
+  .custom-logo .bi {
+    font-size: inherit; /* Ensure the icon inherits the size */
+  }
+  
+  
+  

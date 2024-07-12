@@ -1,0 +1,47 @@
+.card-registration-2 {
+    border-radius: 15px;
+  }
+  
+  .card-registration-2 .card-body {
+    padding: 0;
+  }
+  
+  .card-registration-2 .p-5 {
+    padding: 3rem !important;
+  }
+  
+  .card-registration-2 .form-outline {
+    position: relative;
+  }
+  
+  .card-registration-2 .form-outline input.form-control.form-control-lg {
+    border-radius: 3px;
+  }
+  
+  .card-registration-2 .form-outline input.form-control.form-control-lg:focus ~ .form-label {
+    color: #007bff;
+  }
+  
+  .card-registration-2 .form-outline .form-label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1rem;
+    font-size: 1rem;
+    color: #495057;
+    opacity: 0.5;
+    transition: 0.3s;
+  }
+  
+  .card-registration-2 .btn.btn-light.btn-lg {
+    width: 100%;
+    padding: 1rem;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .card-registration-2 .btn.btn-light.btn-lg:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,10 @@
+/* fonts.css */
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    /* Add additional font weights and styles if needed */
+  }
+  
+  /* Define classes or apply font-family directly to elements */
+  

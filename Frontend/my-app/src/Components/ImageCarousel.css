@@ -1,0 +1,29 @@
+.carousel-container {
+    max-width: 100%;
+    margin: 50px auto;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #ffffff; /* Background color for the container */
+  }
+  
+  .carousel-item {
+    background-color: #f0f0f0; /* Background color for each slide */
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  .carousel-container img {
+    border-radius: 10px;
+    max-height: 400px; /* Adjust image height as needed */
+    width: 100%;
+    object-fit: cover;
+  }
+  
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); 
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  

@@ -1,0 +1,33 @@
+/* Appointment.css */
+.appointment-container {
+    width: 700px;
+    margin: 100px auto;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h5, p {
+    margin: 0 0 10px 0;
+  }
+  
+  .mt-1 {
+    margin-top: 10px;
+  }
+  
+  .mt-3 {
+    margin-top: 30px;
+  }
+  
+  .border {
+    padding: 20px;
+  }
+  
+  button[disabled] {
+    cursor: not-allowed;
+  }
+  
+  .toast-success {
+    background-color: #28a745 !important;
+  }
+  
